@@ -1,7 +1,0 @@
-{
-  "base_url": "http://api.netvance.fun/spotify",
-  "bearer_token": "NETVANCE",
-  "captcha_key": "capsolver-apikey", 
-  "domain": "zepix.id",
-  "password": "rezazulfikar"
-}
